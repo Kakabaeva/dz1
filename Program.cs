@@ -44,13 +44,27 @@
 // 4 -> да
 // -3 -> нет
 // 7 -> нет
-Console.WriteLine("Введите любое целое число");
+// Console.WriteLine("Введите любое целое число");
+// int number1=Convert.ToInt32(Console.ReadLine());
+// if (number1%2==0)
+// {
+//     Console.Write("Введенное число "+number1+" четное");
+// }
+// else
+// {
+//     Console.Write("Введенное число "+number1+" нечетное");
+// }
+
+// Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
+// 5 -> 2, 4
+// 8 -> 2, 4, 6, 8
+Console.WriteLine("Введите любое целое число больше 1");
 int number1=Convert.ToInt32(Console.ReadLine());
-if (number1%2==0)
+int count=2;
+if (number1 <=1)
+Console.WriteLine("Читай условие");
+while (count<number1+1)
 {
-    Console.Write("Введенное число "+number1+" четное");
-}
-else
-{
-    Console.Write("Введенное число "+number1+" нечетное");
+    Console.Write(count+" ");
+    count=count+2;
 }
