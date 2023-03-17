@@ -1,0 +1,15 @@
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/bin/Debug/net6.0/ДЗ1
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/bin/Debug/net6.0/ДЗ1.deps.json
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/bin/Debug/net6.0/ДЗ1.runtimeconfig.json
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/bin/Debug/net6.0/ДЗ1.dll
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/bin/Debug/net6.0/ДЗ1.pdb
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/obj/Debug/net6.0/ДЗ1.csproj.AssemblyReference.cache
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/obj/Debug/net6.0/ДЗ1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/obj/Debug/net6.0/ДЗ1.AssemblyInfoInputs.cache
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/obj/Debug/net6.0/ДЗ1.AssemblyInfo.cs
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/obj/Debug/net6.0/ДЗ1.csproj.CoreCompileInputs.cache
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/obj/Debug/net6.0/ДЗ1.dll
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/obj/Debug/net6.0/refint/ДЗ1.dll
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/obj/Debug/net6.0/ДЗ1.pdb
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/obj/Debug/net6.0/ДЗ1.genruntimeconfig.cache
+/Users/eminakakabaeva/Desktop/Знакомство с языками программирования (семинары)/ДЗ1/obj/Debug/net6.0/ref/ДЗ1.dll
